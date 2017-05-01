@@ -14,7 +14,7 @@ namespace NetStatus
                 Text = "No Network Connection is Available",
                 TextColor = Color.FromRgb(0x40, 0x40, 0x40),
                 HorizontalOptions = LayoutOptions.Center,
-                VerticalOptions = LayoutOptions.Center,
+                VerticalOptions = LayoutOptions.Center
             };
         }
     }
